@@ -1,4 +1,4 @@
-# Object Tracking Using OpenCV 🎯🎥
+# Object Tracking Using OpenCV 🎥
 
 This project demonstrates **object tracking** in video files using **OpenCV**, focusing on detecting and tracking objects based on their color.
 
