@@ -32,12 +32,14 @@ For each detected color, bounding boxes are drawn around the object in the video
 
 ## 📂 Project Structure
 
+```
 📁 object-tracking/
 │
 ├── final_tracking.mp4 # Output video with annotations
 ├── input_video.mp4 # Input video used for processing
-├── object_tracking_code.ipynb # Colab Notebook
+├── Object_Tracking_Code.ipynb # Colab Notebook
 └── README.md # Project documentation
+```
 
 
 ## ▶️ Running the Project
