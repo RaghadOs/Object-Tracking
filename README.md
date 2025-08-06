@@ -50,7 +50,7 @@ To run the project:
 2. Execute the code using your preferred Python environment (Colab or local).
 3. The output will be saved as an annotated video with tracked objects highlighted.
 
-> 💡 The output video is encoded using standard codecs (e.g., H.264) for compatibility with most media players.
+💡 The output video is encoded using standard codecs (e.g., H.264) for compatibility with most media players.
 
 ## 📝 Notes
 
